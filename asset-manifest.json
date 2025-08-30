@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Spay-web/static/css/main.ef8acd79.css",
-    "main.js": "/Spay-web/static/js/main.1af07376.js",
+    "main.js": "/Spay-web/static/js/main.27bc1865.js",
     "index.html": "/Spay-web/index.html",
     "main.ef8acd79.css.map": "/Spay-web/static/css/main.ef8acd79.css.map",
-    "main.1af07376.js.map": "/Spay-web/static/js/main.1af07376.js.map"
+    "main.27bc1865.js.map": "/Spay-web/static/js/main.27bc1865.js.map"
   },
   "entrypoints": [
     "static/css/main.ef8acd79.css",
-    "static/js/main.1af07376.js"
+    "static/js/main.27bc1865.js"
   ]
 }
